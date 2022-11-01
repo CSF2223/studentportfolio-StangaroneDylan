@@ -89,4 +89,12 @@ black: #000
     width: 100%;
     flex-direction: column;
 }
+
+.navbar-links li {
+    text-align: center;
+}
+
+.navbar-links.active {
+    display: flex;
+}
 }
